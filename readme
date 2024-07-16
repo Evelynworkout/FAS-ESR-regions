@@ -1,0 +1,30 @@
+# FAS-ESR-Regions
+
+## 项目简介
+
+`FAS-ESR-Regions` 是一个 Tableau Web Data Connector（WDC）项目，用于从 USDA FAS API 获取 ESR（Economic Research Service）区域数据。这个 WDC 可以用于在 Tableau 中创建关于 ESR 区域的各种数据可视化和分析。
+
+## 特性
+
+- **从 USDA FAS API 拉取 ESR 区域数据**：
+  - 获取区域代码、区域名称和其他相关信息。
+- **支持多种数据分析需求**：
+  - 可以在 Tableau 中用于分析 ESR 区域的经济数据和趋势。
+
+## 功能
+
+- 从 API 获取 ESR 区域信息。
+- 提供数据表格，包含区域代码、区域名称等字段。
+- 适用于 Tableau 数据可视化和分析。
+
+## 预览
+
+[在 GitHub Pages 上查看](https://Evelynworkout.github.io/FAS-ESR-regions/)
+
+## 安装与使用
+
+### 1. 克隆仓库
+
+```bash
+git clone https://github.com/Evelynworkout/FAS-ESR-regions.git
+cd FAS-ESR-regions
